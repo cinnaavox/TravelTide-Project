@@ -40,8 +40,7 @@ Dieses Projekt zielt darauf ab, TravelTide-Kund:innen in klare Segmente zu unter
 
 ## 📂 Quellen & Links  
 - Präsentation: https://www.canva.com/design/DAG0VtKNxHM/NvziLB7VAmBTxBcd8ENeAA/edit?utm_content=DAG0VtKNxHM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
-- Report: https://docs.google.com/document/d/1QMWD5ifIaGvb1ygCAE1wFsFQwcoJqFAMkz-PLB742hc/edit?usp=sharing
+- Report: https://drive.google.com/file/d/1NNk73jRX6mnvvLOiHaHZj8jphxohFANH/view?usp=sharing
 - SQL-Skripte: https://docs.google.com/document/d/1Utk3DuAUl2cGW-dRcPMim4aiU7wEl9TpKX-Sk-iKU0U/edit?usp=sharing 
 - Dashboard-Grafiken: https://colab.research.google.com/drive/1HqR5_aK2of1rspGrDjRbkhZkGyorZULf?usp=sharing
-
 
